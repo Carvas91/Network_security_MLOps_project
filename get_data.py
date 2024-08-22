@@ -31,6 +31,7 @@ class NetworkDataExtract():
             pass
         except Exception as e:
             raise NetworkDataExtract(e, sys)
+    
     if __name__ == '__main__':
         pass
         
