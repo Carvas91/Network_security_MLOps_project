@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: networksecurity
+Version: 0.0.1
+Author: Carlos Vasconez
+Author-email: carvas91@hotmail.com
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: python-dotenv
+Requires-Dist: pymongo
+Requires-Dist: certifi
